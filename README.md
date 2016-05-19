@@ -25,10 +25,14 @@ $(document).ready(function() {
 
 ## Option
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+    +------------+----------+-------------------+----------------------------------+
+    | Parameters | Classify |      Default      |               Note               |
+    +------------+----------+-------------------+----------------------------------+
+    |   scroll   |  Boolean |       true        | Turn auto scroll toolbar editor  |
+    +------------+----------+-------------------+----------------------------------+
+    |  clientid  |  String  | cc86a8de340e7c459 |      Client ID app imgur.com     |
+    +------------+----------+-------------------+----------------------------------+
 
+## Credit
+
+Copyright 2014 WysiBB (evo) and Author: Vadim Dobroskok
